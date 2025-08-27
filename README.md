@@ -1,16 +1,16 @@
-TUGAS KASIR (admin)
-1.Bisa melihat transaksi
-2.Bisa melihat total harga
-3.Bisa melihat detail transaksi nya seperti berat laundry nya, subtotal semua laundry nya jadi berapa aja
+Bula Laundry
+Bula Laundry adalah aplikasi laundry online sederhana yang memudahkan pengguna untuk memesan laundry secara online. Aplikasi ini akan memudahkan customer untuk mau laundry tapi sedang di luar, dan tidak bisa datang ke tempat laundry secara offline.
 
-TUGAS USER
-1.Bisa melihat jenis laundry nya apa aja
-2.Bisa melihat riwayat transaksi nya user
-3.Membayar laundry nya
-4.Bisa memasukan berapa berat laundry yang ingin di laundry
-5.Setelah di masukan berapa berat nya nanti harga nya akan menyesuaikan dengan berat laundry nya (harga di sesuaikan dengan berat laundry user)
-6.Bisa membayar laundryan nya, tapi tidak dengan barcode
+Fitur 
 
-TUGAS PEGAWAI
-1.Bisa melihat pesanan laundry yang masuk itu apa saja. misalkan si user order laundry boneka nanti pesanan nya masuk ke pegawai (berat, jenis laundry nya, jumlah laundry nya berapa)
-2.Jika sudah selesai pegawai bisa mengubah status laundry nya dari yang belum di laundry menjadi sudah selesai di laundry
+1.Login 
+
+2.Jenis layanan
+
+3.Memasukan berat laundry, dan jumlah laundry
+
+4.Melihat pesanan yang masuk apa saja (Pegawai)
+
+5.Mengubah status laundry (Pegawai)
+
+6.Mengedit fitur diuser (Admin)
