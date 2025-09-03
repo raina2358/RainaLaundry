@@ -89,9 +89,22 @@ Melihat laporan transaksi harian, mingguan, atau bulanan.
 
 Mengatur akun pegawai.
 
+<h4>Flowchart</h4>
+<p align="center">
+  <img width="634" height="762" alt="flowchart_laundry2" src="https://github.com/user-attachments/assets/136216ef-8624-4e1f-a078-f056e30c9cc7" />
+</p>
+
+<p align="center">
+  <img width="666" height="813" alt="usecase_laundry" src="https://github.com/user-attachments/assets/cdf50530-327c-49cc-9137-6b33f273c7f6" />
+" />
+</p>
 <p align="center">
   <img width="634" height="762" alt="Activity_diagram_laundry" src="https://github.com/user-attachments/assets/9fc14434-b014-4f01-b13e-3a0603f43986" />
 </p>
+<p align="center"></p>
+<p align="center"></p>
+<p align="center"></p>
+
 
 
 
