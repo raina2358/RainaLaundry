@@ -16,7 +16,7 @@ Dalam aplikasi ini ada tiga level atau peran, yaitu:
 
 <h3>Kasir</h3>
 
-1. Melihat transaksi yang masuk, termasuk bukti pembayaran, total harga, dan tanggal pembayaran.
+1.Melihat transaksi yang masuk, termasuk bukti pembayaran, total harga, dan tanggal pembayaran.
 
 2.Melihat detail transaksi seperti berat laundry dan subtotal dari setiap pesanan.
 
