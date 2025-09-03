@@ -106,7 +106,7 @@ Mengatur akun pegawai.
 
 <h3>Sequence</h3>
 <p align="center">
-  <img width="996" height="302" alt="Sequence_diagram_laundry drawio" src="https://github.com/user-attachments/assets/c041bd85-dd4c-4c7a-a6d2-604b34996826" />
+  <img width="996" height="302" alt="Sequence_diagram_laundry" src="https://github.com/user-attachments/assets/c041bd85-dd4c-4c7a-a6d2-604b34996826" />
 </p>
 
 <h3>UI Login laundry</h3>
