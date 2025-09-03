@@ -14,4 +14,4 @@ Fitur
 
 5.Mengubah status laundry (Pegawai)
 
-6.Mengedit fitur diuser (Admin)
+6.Mengedit fitur diuser ((Kasir)Admin)
