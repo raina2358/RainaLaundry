@@ -104,6 +104,11 @@ Mengatur akun pegawai.
   <img width="634" height="762" alt="Activity_diagram_laundry" src="https://github.com/user-attachments/assets/9fc14434-b014-4f01-b13e-3a0603f43986" />
 </p>
 
+<h3>Sequence</h3>
+<p align="center">
+  <img width="996" height="302" alt="Sequence_diagram_laundry drawio" src="https://github.com/user-attachments/assets/c041bd85-dd4c-4c7a-a6d2-604b34996826" />
+</p>
+
 <h3>UI Login laundry</h3>
 <p align="center">
   <img width="568" height="533" alt="loginlaundry" src="https://github.com/user-attachments/assets/aabd83d9-c38a-4d93-8160-35c00493c7a3" />
@@ -119,9 +124,4 @@ Mengatur akun pegawai.
 <p align="center">
   <img width="567" height="664" alt="Laundrykasir(admin)" src="https://github.com/user-attachments/assets/5032c91a-9fe5-46dd-8888-43fd516c9188" />
 </p>
-
-
-
-
-
 
