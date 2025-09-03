@@ -89,7 +89,10 @@ Melihat laporan transaksi harian, mingguan, atau bulanan.
 
 Mengatur akun pegawai.
 
-<img width="634" height="762" alt="Activity_diagram_laundry" src="https://github.com/user-attachments/assets/9fc14434-b014-4f01-b13e-3a0603f43986" />
+<p align="center">
+  <img width="634" height="762" alt="Activity_diagram_laundry" src="https://github.com/user-attachments/assets/9fc14434-b014-4f01-b13e-3a0603f43986" />
+</p>
+
 
 
 
