@@ -85,7 +85,7 @@ Sistem menyimpan riwayat pembayaran.
 
 Mengedit fitur-fitur yang ada di user (misalnya menambah opsi layanan baru).
 
-Melihat laporan transaksi harian, mingguan, atau bulanan.
+Melihat laporan transaksi harian
 
 Mengatur akun pegawai.
 
