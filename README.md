@@ -106,7 +106,7 @@ Mengatur akun pegawai.
 
 <h3>Sequence</h3>
 <p align="center">
-  <img width="996" height="302" alt="Sequence_diagram_laundry" src="" />
+  <img width="996" height="302" alt="Sequence_diagram_laundry" src="https://github.com/raina2358/RainaLaundry/blob/main/Sequence_diagram_laundry.drawio.png?raw=true" />
 </p>
 
 <h3>db diagram</h3>
