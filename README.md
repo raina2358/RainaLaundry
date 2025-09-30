@@ -111,7 +111,7 @@ Mengatur akun pegawai.
 
 <h3>db diagram</h3>
 <p align="center">
-  <img width="567" height="664" alt="Laundrykasir(admin)" src="https://github.com/user-attachments/assets/5032c91a-9fe5-46dd-8888-43fd516c9188" />
+  <img width="567" height="664" alt="db_diagram_laundry" src="https://github.com/raina2358/RainaLaundry/blob/main/db_diagram%20UKK%20LAUNDRY.png?raw=true" />
 </p>
 
 <h3>UI Login laundry</h3>
